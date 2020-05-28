@@ -1,0 +1,49 @@
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart1.csv:,"BR","NOD","Nova Odessa","Nova Odessa","SP","-23-----","RL","0607",,"2247S 04718W",
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart1.csv:,"CA","ODE","Odessa","Odessa","ON","1-3-----","RL","0601",,"4416N 07643W",
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"UA","ODS","Odessa","Odessa",,"1234-6--","AI","0701",,,""
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","LQO","Lake Odessa","Lake Odessa","MI","--3-----","RQ","9307",,,
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","ZGY","Odessa","Odessa","DE","-----6--","RL","0901",,"3927N 07539W",
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","ODF","Odessa","Odessa","FL","--3-----","RQ","9008",,,
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","ODG","Odessa","Odessa","MO","-23--6--","RL","0701",,"3900N 09357W",
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","ZOA","Odessa","Odessa","NE","--3--6--","RL","0401",,"4042N 09915W",
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","ODS","Odessa","Odessa","NY","-23--6--","RL","0607",,"4220N 07647W",
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","OSD","Odessa","Odessa","TX","--3-----","RQ","9307",,,
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"US","KQI","Odessa","Odessa","WA","-----6--","RL","1201",,"4720N 11841W",
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa-oblast	UA-51	af
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa vilayəti	UA-51	az
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Província d'Odessa	UA-51	ca
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa oblast	UA-51	da
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Oblast Odessa	UA-51	de
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa Oblast	UA-51	en
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa oblast	UA-51	et
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessan alue	UA-51	fi
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa	UA-51	fr
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Oblast Odessa	UA-51	id
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	oblast' di Odessa	UA-51	it
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa Oblast	UA-51	ms
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa oblast	UA-51	nb
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Oblast Odessa	UA-51	nl
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Oblast de Odessa	UA-51	pt
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa oblast	UA-51	sv
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa Oblastı	UA-51	tr
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa viloyati	UA-51	uz
+tools/java/org/unicode/cldr/util/data/external/wikiSubdivisionLanguages.tsv:http://www.wikidata.org/entity/Q171852	Odessa	UA-51	vi
+tools/java/org/unicode/cldr/util/data/external/Cities-Over1M.txt:397	1,021,194	Odessa	Ukraine	1,029,366	323
+common/subdivisions/id.xml:			<subdivision type="ua51" draft="contributed">Oblast Odessa</subdivision>
+common/subdivisions/it.xml:			<subdivision type="ua51" draft="contributed">Oblast’ di Odessa</subdivision>
+common/subdivisions/nl.xml:			<subdivision type="ua51" draft="contributed">Oblast Odessa</subdivision>
+common/subdivisions/nb.xml:			<subdivision type="ua51" draft="contributed">Odessa oblast</subdivision>
+common/subdivisions/et.xml:			<subdivision type="ua51" draft="contributed">Odessa oblast</subdivision>
+common/subdivisions/az.xml:			<subdivision type="ua51" draft="contributed">Odessa vilayəti</subdivision>
+common/subdivisions/de.xml:			<subdivision type="ua51" draft="contributed">Oblast Odessa</subdivision>
+common/subdivisions/vi.xml:			<subdivision type="ua51" draft="contributed">Odessa</subdivision>
+common/subdivisions/fr.xml:			<subdivision type="ua51" draft="contributed">Oblast d’Odessa</subdivision>
+common/subdivisions/af.xml:			<subdivision type="ua51" draft="contributed">Odessa-oblast</subdivision>
+common/subdivisions/uz.xml:			<subdivision type="ua51" draft="contributed">Odessa viloyati</subdivision>
+common/subdivisions/ms.xml:			<subdivision type="ua51" draft="contributed">Odessa Oblast</subdivision>
+common/subdivisions/sv.xml:			<subdivision type="ua51" draft="contributed">Odessa oblast</subdivision>
+common/subdivisions/ca.xml:			<subdivision type="ua51" draft="contributed">Província d’Odessa</subdivision>
+common/subdivisions/tr.xml:			<subdivision type="ua51" draft="contributed">Odessa Oblastı</subdivision>
+common/subdivisions/fi.xml:			<subdivision type="ua51" draft="contributed">Odessan alue</subdivision>
+common/subdivisions/pt.xml:			<subdivision type="ua51" draft="contributed">Oblast de Odessa</subdivision>
+common/subdivisions/da.xml:			<subdivision type="ua51" draft="contributed">Odessa oblast</subdivision>

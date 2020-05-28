@@ -1,0 +1,167 @@
+..kyiv.txt:tools/java/org/unicode/cldr/util/data/TZID.txt:tzid	|	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	|	UA	
+..kyiv.txt:tools/java/org/unicode/cldr/icu/idList.txt:tzid	;	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	;	UA		
+..kyiv.txt:common/supplemental/windowsZones.xml:			<mapZone other="FLE Standard Time" territory="UA" type="Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye"/>
+tools/java/org/unicode/cldr/tool/IdToPath.java:            { "3386596531885005336", "//ldml/dates/timeZoneNames/zone[@type=\"Europe/Uzhgorod\"]/exemplarCity", "Uzhgorod" },
+tools/java/org/unicode/cldr/util/data/TZID.txt:tzid	|	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	|	UA	
+tools/java/org/unicode/cldr/util/data/europe:# "Uzhgorod" is more common in English.
+tools/java/org/unicode/cldr/util/data/europe:Zone Europe/Uzhgorod	1:29:12 -	LMT	1890 Oct
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"UA","UZH","Uzhgorod","Uzhgorod",,"-2------","AI","9501",,,
+tools/java/org/unicode/cldr/util/data/zone.tab:UA	+4837+02218	Europe/Uzhgorod	Ruthenia
+tools/java/org/unicode/cldr/util/data/prettyPathZone.txt:	'Europe/Uzhgorod'	>	'UA/Uzhgorod';
+tools/java/org/unicode/cldr/icu/idList.txt:tzid	;	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	;	UA		
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/xmb/en.xml:	<!-- //ldml/dates/timeZoneNames/zone[@type="Europe/Uzhgorod"]/exemplarCity -->
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/xmb/en.xml:		desc='The name of the city "Uzhgorod" (in Ukraine). For more information, see http://cldr.org/translation/cities.'>Uzhgorod</msg>
+common/bcp47/timezone.xml:            <type name="uauzh" description="Uzhhorod (Uzhgorod), Ukraine" alias="Europe/Uzhgorod"/>
+common/main/es_419.xml:			<zone type="Europe/Uzhgorod">
+common/main/uk.xml:			<zone type="Europe/Uzhgorod">
+common/main/cy.xml:			<zone type="Europe/Uzhgorod">
+common/main/km.xml:			<zone type="Europe/Uzhgorod">
+common/main/to.xml:			<zone type="Europe/Uzhgorod">
+common/main/id.xml:			<zone type="Europe/Uzhgorod">
+common/main/sq.xml:			<zone type="Europe/Uzhgorod">
+common/main/sq.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/brx.xml:			<zone type="Europe/Uzhgorod">
+common/main/sr_Latn.xml:			<zone type="Europe/Uzhgorod">
+common/main/dsb.xml:			<zone type="Europe/Uzhgorod">
+common/main/es_MX.xml:			<zone type="Europe/Uzhgorod">
+common/main/ps.xml:			<zone type="Europe/Uzhgorod">
+common/main/ks.xml:			<zone type="Europe/Uzhgorod">
+common/main/yo.xml:			<zone type="Europe/Uzhgorod">
+common/main/th.xml:			<zone type="Europe/Uzhgorod">
+common/main/en_AU.xml:			<zone type="Europe/Uzhgorod">
+common/main/nds.xml:			<zone type="Europe/Uzhgorod">
+common/main/zh_Hant_HK.xml:			<zone type="Europe/Uzhgorod">
+common/main/it.xml:			<zone type="Europe/Uzhgorod">
+common/main/ksh.xml:			<zone type="Europe/Uzhgorod">
+common/main/is.xml:			<zone type="Europe/Uzhgorod">
+common/main/is.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/rm.xml:			<zone type="Europe/Uzhgorod">
+common/main/cu.xml:			<zone type="Europe/Uzhgorod">
+common/main/nl.xml:			<zone type="Europe/Uzhgorod">
+common/main/bg.xml:			<zone type="Europe/Uzhgorod">
+common/main/mt.xml:			<zone type="Europe/Uzhgorod">
+common/main/mt.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/es.xml:			<zone type="Europe/Uzhgorod">
+common/main/tk.xml:			<zone type="Europe/Uzhgorod">
+common/main/ro.xml:			<zone type="Europe/Uzhgorod">
+common/main/bs.xml:			<zone type="Europe/Uzhgorod">
+common/main/ml.xml:			<zone type="Europe/Uzhgorod">
+common/main/nb.xml:			<zone type="Europe/Uzhgorod">
+common/main/sd.xml:			<zone type="Europe/Uzhgorod">
+common/main/ast.xml:			<zone type="Europe/Uzhgorod">
+common/main/ast.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/fil.xml:			<zone type="Europe/Uzhgorod">
+common/main/fil.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/ur.xml:			<zone type="Europe/Uzhgorod">
+common/main/fr_CA.xml:			<zone type="Europe/Uzhgorod">
+common/main/mr.xml:			<zone type="Europe/Uzhgorod">
+common/main/cs.xml:			<zone type="Europe/Uzhgorod">
+common/main/yue_Hans.xml:			<zone type="Europe/Uzhgorod">
+common/main/ff_Adlm.xml:			<zone type="Europe/Uzhgorod">
+common/main/so.xml:			<zone type="Europe/Uzhgorod">
+common/main/et.xml:			<zone type="Europe/Uzhgorod">
+common/main/he.xml:			<zone type="Europe/Uzhgorod">
+common/main/jv.xml:			<zone type="Europe/Uzhgorod">
+common/main/jv.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/ha.xml:			<zone type="Europe/Uzhgorod">
+common/main/az.xml:			<zone type="Europe/Uzhgorod">
+common/main/el.xml:			<zone type="Europe/Uzhgorod">
+common/main/ia.xml:			<zone type="Europe/Uzhgorod">
+common/main/ia.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/ta.xml:			<zone type="Europe/Uzhgorod">
+common/main/kk.xml:			<zone type="Europe/Uzhgorod">
+common/main/lt.xml:			<zone type="Europe/Uzhgorod">
+common/main/en.xml:			<zone type="Europe/Uzhgorod">
+common/main/ce.xml:			<zone type="Europe/Uzhgorod">
+common/main/hr.xml:			<zone type="Europe/Uzhgorod">
+common/main/ja.xml:			<zone type="Europe/Uzhgorod">
+common/main/mk.xml:			<zone type="Europe/Uzhgorod">
+common/main/ig.xml:			<zone type="Europe/Uzhgorod">
+common/main/zu.xml:			<zone type="Europe/Uzhgorod">
+common/main/bs_Cyrl.xml:			<zone type="Europe/Uzhgorod">
+common/main/fa.xml:			<zone type="Europe/Uzhgorod">
+common/main/de.xml:			<zone type="Europe/Uzhgorod">
+common/main/vi.xml:			<zone type="Europe/Uzhgorod">
+common/main/lo.xml:			<zone type="Europe/Uzhgorod">
+common/main/hy.xml:			<zone type="Europe/Uzhgorod">
+common/main/kab.xml:			<zone type="Europe/Uzhgorod">
+common/main/kab.xml:				<exemplarCity draft="unconfirmed">Uzhgorod</exemplarCity>
+common/main/pa.xml:			<zone type="Europe/Uzhgorod">
+common/main/ar.xml:			<zone type="Europe/Uzhgorod">
+common/main/fr.xml:			<zone type="Europe/Uzhgorod">
+common/main/or.xml:			<zone type="Europe/Uzhgorod">
+common/main/mn.xml:			<zone type="Europe/Uzhgorod">
+common/main/en_CA.xml:			<zone type="Europe/Uzhgorod">
+common/main/pl.xml:			<zone type="Europe/Uzhgorod">
+common/main/ky.xml:			<zone type="Europe/Uzhgorod">
+common/main/af.xml:			<zone type="Europe/Uzhgorod">
+common/main/af.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/sw_KE.xml:			<zone type="Europe/Uzhgorod">
+common/main/uz.xml:			<zone type="Europe/Uzhgorod">
+common/main/en_IN.xml:			<zone type="Europe/Uzhgorod">
+common/main/gl.xml:			<zone type="Europe/Uzhgorod">
+common/main/pcm.xml:			<zone type="Europe/Uzhgorod">
+common/main/yue.xml:			<zone type="Europe/Uzhgorod">
+common/main/ms.xml:			<zone type="Europe/Uzhgorod">
+common/main/ms.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/lv.xml:			<zone type="Europe/Uzhgorod">
+common/main/be.xml:			<zone type="Europe/Uzhgorod">
+common/main/pt_PT.xml:			<zone type="Europe/Uzhgorod">
+common/main/pt_PT.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/en_GB.xml:			<zone type="Europe/Uzhgorod">
+common/main/hsb.xml:			<zone type="Europe/Uzhgorod">
+common/main/gsw.xml:			<zone type="Europe/Uzhgorod">
+common/main/sv.xml:			<zone type="Europe/Uzhgorod">
+common/main/eu.xml:			<zone type="Europe/Uzhgorod">
+common/main/fo.xml:			<zone type="Europe/Uzhgorod">
+common/main/as.xml:			<zone type="Europe/Uzhgorod">
+common/main/si.xml:			<zone type="Europe/Uzhgorod">
+common/main/ca.xml:			<zone type="Europe/Uzhgorod">
+common/main/ca.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/bn.xml:			<zone type="Europe/Uzhgorod">
+common/main/chr.xml:			<zone type="Europe/Uzhgorod">
+common/main/zh_Hant.xml:			<zone type="Europe/Uzhgorod">
+common/main/ccp.xml:			<zone type="Europe/Uzhgorod">
+common/main/tr.xml:			<zone type="Europe/Uzhgorod">
+common/main/hi.xml:			<zone type="Europe/Uzhgorod">
+common/main/sk.xml:			<zone type="Europe/Uzhgorod">
+common/main/fi.xml:			<zone type="Europe/Uzhgorod">
+common/main/lb.xml:			<zone type="Europe/Uzhgorod">
+common/main/qu.xml:			<zone type="Europe/Uzhgorod">
+common/main/qu.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/ceb.xml:			<zone type="Europe/Uzhgorod">
+common/main/ee.xml:			<zone type="Europe/Uzhgorod">
+common/main/ee.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/zh.xml:			<zone type="Europe/Uzhgorod">
+common/main/ne.xml:			<zone type="Europe/Uzhgorod">
+common/main/es_US.xml:			<zone type="Europe/Uzhgorod">
+common/main/ko.xml:			<zone type="Europe/Uzhgorod">
+common/main/hu.xml:			<zone type="Europe/Uzhgorod">
+common/main/gd.xml:			<zone type="Europe/Uzhgorod">
+common/main/gd.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/te.xml:			<zone type="Europe/Uzhgorod">
+common/main/pt.xml:			<zone type="Europe/Uzhgorod">
+common/main/pt.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/ti.xml:			<zone type="Europe/Uzhgorod">
+common/main/ti.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/ru.xml:			<zone type="Europe/Uzhgorod">
+common/main/ga.xml:			<zone type="Europe/Uzhgorod">
+common/main/ga.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/am.xml:			<zone type="Europe/Uzhgorod">
+common/main/fy.xml:			<zone type="Europe/Uzhgorod">
+common/main/sl.xml:			<zone type="Europe/Uzhgorod">
+common/main/sr.xml:			<zone type="Europe/Uzhgorod">
+common/main/my.xml:			<zone type="Europe/Uzhgorod">
+common/main/gu.xml:			<zone type="Europe/Uzhgorod">
+common/main/ka.xml:			<zone type="Europe/Uzhgorod">
+common/main/sw.xml:			<zone type="Europe/Uzhgorod">
+common/main/sw.xml:				<exemplarCity>Uzhgorod</exemplarCity>
+common/main/kn.xml:			<zone type="Europe/Uzhgorod">
+common/main/da.xml:			<zone type="Europe/Uzhgorod">
+common/main/nn.xml:			<zone type="Europe/Uzhgorod">
+common/main/br.xml:			<zone type="Europe/Uzhgorod">
+common/main/kok.xml:			<zone type="Europe/Uzhgorod">
+common/supplemental/metaZones.xml:			<timezone type="Europe/Uzhgorod">
+common/supplemental/windowsZones.xml:			<mapZone other="FLE Standard Time" territory="UA" type="Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye"/>
+seed/main/sc.xml:			<zone type="Europe/Uzhgorod">
+seed/main/szl.xml:			<zone type="Europe/Uzhgorod">

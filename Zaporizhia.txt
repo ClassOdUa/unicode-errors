@@ -1,0 +1,171 @@
+tools/java/org/unicode/cldr/util/data/europe:# Zaporozh'ye and eastern Lugansk oblasts observed DST 1990/1991.
+tools/java/org/unicode/cldr/util/data/europe:# "Zaporozh'ye" is more common in English.  Use the common English
+tools/java/org/unicode/cldr/util/data/zone.tab:UA	+4750+03510	Europe/Zaporozhye	Zaporozh'ye/Zaporizhia; Lugansk/Luhansk (east)
+..kyiv.txt:tools/java/org/unicode/cldr/util/data/TZID.txt:tzid	|	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	|	UA	
+..kyiv.txt:tools/java/org/unicode/cldr/icu/idList.txt:tzid	;	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	;	UA		
+..kyiv.txt:common/supplemental/windowsZones.xml:			<mapZone other="FLE Standard Time" territory="UA" type="Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye"/>
+tools/java/org/unicode/cldr/tool/IdToPath.java:            { "8167301492804220968", "//ldml/dates/timeZoneNames/zone[@type=\"Europe/Zaporozhye\"]/exemplarCity", "Zaporozhye" },
+tools/java/org/unicode/cldr/util/data/TZID.txt:tzid	|	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	|	UA	
+tools/java/org/unicode/cldr/util/data/europe:Zone Europe/Zaporozhye	2:20:40 -	LMT	1880
+tools/java/org/unicode/cldr/util/data/external/2013-1_UNLOCODE_CodeListPart3.csv:,"UA","OZH","Zaporozhye","Zaporozhye",,"---4----","AI","0212",,"4819N 03337E",
+tools/java/org/unicode/cldr/util/data/zone.tab:UA	+4750+03510	Europe/Zaporozhye	Zaporozh'ye/Zaporizhia; Lugansk/Luhansk (east)
+tools/java/org/unicode/cldr/util/data/prettyPathZone.txt:	'Europe/Zaporozhye'	>	'UA/Zaporozhye';
+tools/java/org/unicode/cldr/icu/idList.txt:tzid	;	Europe/Uzhgorod, Europe/Kiev, Europe/Zaporozhye, Europe/Simferopol	;	UA		
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/xmb/en.xml:	<!-- //ldml/dates/timeZoneNames/zone[@type="Europe/Zaporozhye"]/exemplarCity -->
+tools/cldr-unittest/src/org/unicode/cldr/unittest/data/xmb/en.xml:		desc='The name of the city "Zaporozhye" (in Ukraine). For more information, see http://cldr.org/translation/cities.'>Zaporozhye</msg>
+common/bcp47/timezone.xml:            <type name="uaozh" description="Zaporizhia (Zaporozhye), Ukraine" alias="Europe/Zaporozhye"/>
+common/main/es_419.xml:			<zone type="Europe/Zaporozhye">
+common/main/uk.xml:			<zone type="Europe/Zaporozhye">
+common/main/cy.xml:			<zone type="Europe/Zaporozhye">
+common/main/km.xml:			<zone type="Europe/Zaporozhye">
+common/main/to.xml:			<zone type="Europe/Zaporozhye">
+common/main/to.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/id.xml:			<zone type="Europe/Zaporozhye">
+common/main/sq.xml:			<zone type="Europe/Zaporozhye">
+common/main/brx.xml:			<zone type="Europe/Zaporozhye">
+common/main/sr_Latn.xml:			<zone type="Europe/Zaporozhye">
+common/main/dsb.xml:			<zone type="Europe/Zaporozhye">
+common/main/es_MX.xml:			<zone type="Europe/Zaporozhye">
+common/main/ps.xml:			<zone type="Europe/Zaporozhye">
+common/main/ks.xml:			<zone type="Europe/Zaporozhye">
+common/main/yo.xml:			<zone type="Europe/Zaporozhye">
+common/main/th.xml:			<zone type="Europe/Zaporozhye">
+common/main/en_AU.xml:			<zone type="Europe/Zaporozhye">
+common/main/nds.xml:			<zone type="Europe/Zaporozhye">
+common/main/zh_Hant_HK.xml:			<zone type="Europe/Zaporozhye">
+common/main/it.xml:			<zone type="Europe/Zaporozhye">
+common/main/it.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/ksh.xml:			<zone type="Europe/Zaporozhye">
+common/main/is.xml:			<zone type="Europe/Zaporozhye">
+common/main/is.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/rm.xml:			<zone type="Europe/Zaporozhye">
+common/main/cu.xml:			<zone type="Europe/Zaporozhye">
+common/main/nl.xml:			<zone type="Europe/Zaporozhye">
+common/main/bg.xml:			<zone type="Europe/Zaporozhye">
+common/main/mt.xml:			<zone type="Europe/Zaporozhye">
+common/main/mt.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/es.xml:			<zone type="Europe/Zaporozhye">
+common/main/tk.xml:			<zone type="Europe/Zaporozhye">
+common/main/ro.xml:			<zone type="Europe/Zaporozhye">
+common/main/bs.xml:			<zone type="Europe/Zaporozhye">
+common/main/ml.xml:			<zone type="Europe/Zaporozhye">
+common/main/nb.xml:			<zone type="Europe/Zaporozhye">
+common/main/sd.xml:			<zone type="Europe/Zaporozhye">
+common/main/ast.xml:			<zone type="Europe/Zaporozhye">
+common/main/ast.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/fil.xml:			<zone type="Europe/Zaporozhye">
+common/main/fil.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/ur.xml:			<zone type="Europe/Zaporozhye">
+common/main/fr_CA.xml:			<zone type="Europe/Zaporozhye">
+common/main/mr.xml:			<zone type="Europe/Zaporozhye">
+common/main/cs.xml:			<zone type="Europe/Zaporozhye">
+common/main/yue_Hans.xml:			<zone type="Europe/Zaporozhye">
+common/main/ff_Adlm.xml:			<zone type="Europe/Zaporozhye">
+common/main/so.xml:			<zone type="Europe/Zaporozhye">
+common/main/et.xml:			<zone type="Europe/Zaporozhye">
+common/main/he.xml:			<zone type="Europe/Zaporozhye">
+common/main/jv.xml:			<zone type="Europe/Zaporozhye">
+common/main/jv.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/ha.xml:			<zone type="Europe/Zaporozhye">
+common/main/az.xml:			<zone type="Europe/Zaporozhye">
+common/main/el.xml:			<zone type="Europe/Zaporozhye">
+common/main/ia.xml:			<zone type="Europe/Zaporozhye">
+common/main/ia.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/ta.xml:			<zone type="Europe/Zaporozhye">
+common/main/kk.xml:			<zone type="Europe/Zaporozhye">
+common/main/lt.xml:			<zone type="Europe/Zaporozhye">
+common/main/ce.xml:			<zone type="Europe/Zaporozhye">
+common/main/hr.xml:			<zone type="Europe/Zaporozhye">
+common/main/ja.xml:			<zone type="Europe/Zaporozhye">
+common/main/mk.xml:			<zone type="Europe/Zaporozhye">
+common/main/ig.xml:			<zone type="Europe/Zaporozhye">
+common/main/zu.xml:			<zone type="Europe/Zaporozhye">
+common/main/zu.xml:				<exemplarCity>i-Zaporozhye</exemplarCity>
+common/main/bs_Cyrl.xml:			<zone type="Europe/Zaporozhye">
+common/main/fa.xml:			<zone type="Europe/Zaporozhye">
+common/main/de.xml:			<zone type="Europe/Zaporozhye">
+common/main/vi.xml:			<zone type="Europe/Zaporozhye">
+common/main/vi.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/lo.xml:			<zone type="Europe/Zaporozhye">
+common/main/hy.xml:			<zone type="Europe/Zaporozhye">
+common/main/kab.xml:			<zone type="Europe/Zaporozhye">
+common/main/kab.xml:				<exemplarCity draft="unconfirmed">Zaporozhye</exemplarCity>
+common/main/pa.xml:			<zone type="Europe/Zaporozhye">
+common/main/ar.xml:			<zone type="Europe/Zaporozhye">
+common/main/fr.xml:			<zone type="Europe/Zaporozhye">
+common/main/or.xml:			<zone type="Europe/Zaporozhye">
+common/main/mn.xml:			<zone type="Europe/Zaporozhye">
+common/main/en_CA.xml:			<zone type="Europe/Zaporozhye">
+common/main/pl.xml:			<zone type="Europe/Zaporozhye">
+common/main/ky.xml:			<zone type="Europe/Zaporozhye">
+common/main/af.xml:			<zone type="Europe/Zaporozhye">
+common/main/af.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/sw_KE.xml:			<zone type="Europe/Zaporozhye">
+common/main/uz.xml:			<zone type="Europe/Zaporozhye">
+common/main/en_IN.xml:			<zone type="Europe/Zaporozhye">
+common/main/gl.xml:			<zone type="Europe/Zaporozhye">
+common/main/pcm.xml:			<zone type="Europe/Zaporozhye">
+common/main/yue.xml:			<zone type="Europe/Zaporozhye">
+common/main/ms.xml:			<zone type="Europe/Zaporozhye">
+common/main/ms.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/lv.xml:			<zone type="Europe/Zaporozhye">
+common/main/be.xml:			<zone type="Europe/Zaporozhye">
+common/main/pt_PT.xml:			<zone type="Europe/Zaporozhye">
+common/main/en_GB.xml:			<zone type="Europe/Zaporozhye">
+common/main/en_GB.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/hsb.xml:			<zone type="Europe/Zaporozhye">
+common/main/gsw.xml:			<zone type="Europe/Zaporozhye">
+common/main/sv.xml:			<zone type="Europe/Zaporozhye">
+common/main/eu.xml:			<zone type="Europe/Zaporozhye">
+common/main/eu.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/fo.xml:			<zone type="Europe/Zaporozhye">
+common/main/fo.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/as.xml:			<zone type="Europe/Zaporozhye">
+common/main/si.xml:			<zone type="Europe/Zaporozhye">
+common/main/ca.xml:			<zone type="Europe/Zaporozhye">
+common/main/bn.xml:			<zone type="Europe/Zaporozhye">
+common/main/chr.xml:			<zone type="Europe/Zaporozhye">
+common/main/zh_Hant.xml:			<zone type="Europe/Zaporozhye">
+common/main/ccp.xml:			<zone type="Europe/Zaporozhye">
+common/main/tr.xml:			<zone type="Europe/Zaporozhye">
+common/main/hi.xml:			<zone type="Europe/Zaporozhye">
+common/main/sk.xml:			<zone type="Europe/Zaporozhye">
+common/main/fi.xml:			<zone type="Europe/Zaporozhye">
+common/main/lb.xml:			<zone type="Europe/Zaporozhye">
+common/main/qu.xml:			<zone type="Europe/Zaporozhye">
+common/main/qu.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/ceb.xml:			<zone type="Europe/Zaporozhye">
+common/main/ee.xml:			<zone type="Europe/Zaporozhye">
+common/main/ee.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/zh.xml:			<zone type="Europe/Zaporozhye">
+common/main/ne.xml:			<zone type="Europe/Zaporozhye">
+common/main/es_US.xml:			<zone type="Europe/Zaporozhye">
+common/main/ko.xml:			<zone type="Europe/Zaporozhye">
+common/main/hu.xml:			<zone type="Europe/Zaporozhye">
+common/main/gd.xml:			<zone type="Europe/Zaporozhye">
+common/main/gd.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/te.xml:			<zone type="Europe/Zaporozhye">
+common/main/pt.xml:			<zone type="Europe/Zaporozhye">
+common/main/ti.xml:			<zone type="Europe/Zaporozhye">
+common/main/ti.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/ru.xml:			<zone type="Europe/Zaporozhye">
+common/main/ga.xml:			<zone type="Europe/Zaporozhye">
+common/main/ga.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/am.xml:			<zone type="Europe/Zaporozhye">
+common/main/fy.xml:			<zone type="Europe/Zaporozhye">
+common/main/sl.xml:			<zone type="Europe/Zaporozhye">
+common/main/sr.xml:			<zone type="Europe/Zaporozhye">
+common/main/my.xml:			<zone type="Europe/Zaporozhye">
+common/main/gu.xml:			<zone type="Europe/Zaporozhye">
+common/main/ka.xml:			<zone type="Europe/Zaporozhye">
+common/main/sw.xml:			<zone type="Europe/Zaporozhye">
+common/main/sw.xml:				<exemplarCity>Zaporozhye</exemplarCity>
+common/main/kn.xml:			<zone type="Europe/Zaporozhye">
+common/main/da.xml:			<zone type="Europe/Zaporozhye">
+common/main/nn.xml:			<zone type="Europe/Zaporozhye">
+common/main/br.xml:			<zone type="Europe/Zaporozhye">
+common/main/kok.xml:			<zone type="Europe/Zaporozhye">
+common/supplemental/metaZones.xml:			<timezone type="Europe/Zaporozhye">
+common/supplemental/windowsZones.xml:			<mapZone other="FLE Standard Time" territory="UA" type="Europe/Kiev Europe/Uzhgorod Europe/Zaporozhye"/>
+seed/main/sc.xml:			<zone type="Europe/Zaporozhye">
+seed/main/szl.xml:			<zone type="Europe/Zaporozhye">
